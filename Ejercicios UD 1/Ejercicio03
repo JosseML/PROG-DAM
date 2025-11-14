@@ -1,0 +1,15 @@
+
+a = b   a = 'b'
+
+  a = b => Guarda el valor de b en a. (a debe poder almacenar el dato de b. Deben tener tipos compatibles.
+         Por ejemplo, si a es int no puede almacenar undouble. Al revés, sí que funcionaría
+
+  a = 'b' => 'b' es de tipo char. Por lo tanto, se almacena 'b' en a. La variable a debe ser de tipo char
+
+
+
+
+a = 7  a = '7'
+
+  a = 7 => Se almacena en a el entero 7.
+  a = '7' => Dado que se almacena el char '7', a debe ser de tipo char.

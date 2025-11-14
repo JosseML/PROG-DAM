@@ -1,0 +1,17 @@
+
+Declaración del paquete en el que está la clase. Fijarse que usa notación lowerCamelCase.
+
+Comentarios de Java DOC. Lineas 3-6.
+
+Declaración de la clase. Notación UpperCamelCase.
+
+Declaración del método main.
+
+Declaración de una constante. Se escriben en mayúsculas.
+
+Declaración de variables.
+
+Comentario multilínea.
+
+Comentario de una linea.
+
