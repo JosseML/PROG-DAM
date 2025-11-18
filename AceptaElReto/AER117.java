@@ -10,6 +10,7 @@ public class AER117 {
 
         int casos = in.nextInt();
         in.nextLine();
+
         String linea;
         String nombre;
 

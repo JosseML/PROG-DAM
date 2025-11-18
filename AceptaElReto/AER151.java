@@ -27,7 +27,7 @@ public class AER151 {
                         esIdentidad = false;
                 }
             }
-            System.out.println((esIdentidad? "SI" : "NO"));
+            System.out.println((esIdentidad)? "SI" : "NO");
         }
     }
 }
