@@ -1,0 +1,14 @@
+
+MARIA: Correcto, pero sería una constante.
+María: Correcto, pero no es aconsejable porque tiene tilde.
+Salto_mortal: Correcto, pero no sigue la nomenclatura de Java.
+"datos": Incorrecto, es una cadena de texto.
+sueldo bruto: Incorrecto, no puede haber espacios.
+saltomortal: Correcto, pero no sigue la nomenclatura de Java.
+cu_1: Correcto.
+58: Incorrecto. Es un número.
+salto-mortal:  Incorrecto. No se admite el guión alto.
+if: Incorrecto, es una palabra reservada. Forma parte del lenguaje de Java.
+_&precio: Incorrecto, tiene el simbolo &.
+año: Correcto, pero no aconsejable.
+
