@@ -36,11 +36,11 @@ public class Ejercicio02 {
         dia = Byte.parseByte(fecha.substring(0, 2));
         mes = Byte.parseByte(fecha.substring(3, 5));
         año = Short.parseShort(fecha.substring(6));
-        
-        
-        if (mes < 1 || mes > 12 || año == 0 || dia < 1 || dia > getDiasMes(mes, año))
+
+        if (mes < 1 || mes > 12 || año == 0 || dia < 1 || dia > getDiasMes(mes, año)) {
             esFechaValida = false;
-        
-        System.out.println((esFechaValida)? "Fecha válida" : "Fecha inválida");
+        }
+
+        System.out.println((esFechaValida) ? "Fecha válida" : "Fecha inválida");
     }
 }
