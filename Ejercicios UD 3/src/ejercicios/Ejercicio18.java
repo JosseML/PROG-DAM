@@ -7,11 +7,11 @@ public class Ejercicio18 {
         int i = 0; // Índice por la izquierda
         int j = cadena.length() - 1; // Índice por la derecha
         
-        while (i < j) { 
+        while (i < j) {
             if (cadena.charAt(i++) != cadena.charAt(j--))
                 return false;
         }
-
+        
         return true;
     }
     
