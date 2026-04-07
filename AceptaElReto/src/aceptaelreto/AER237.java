@@ -12,6 +12,7 @@ public class AER237 {
             ret++;
             n /= 10;
         } while (n != 0);
+        
         return ret;
     }
     
@@ -36,9 +37,11 @@ public class AER237 {
         Scanner in = new Scanner(System.in);
 
         while (in.hasNext()) {
+            
             long n = in.nextLong();
         
             if (esPolidivisible(n))
+                
                 System.out.println("POLIDIVISIBLE");
             else
                 System.out.println("NO POLIDIVISIBLE");

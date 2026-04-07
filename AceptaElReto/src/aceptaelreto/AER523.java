@@ -44,7 +44,9 @@ public class AER523 {
     }
 
     public static void main(String[] args) {
+        
         int casos = in.nextInt();
+        
         while (casos-- > 0)
             resuelveCaso();
     }
